@@ -48,6 +48,8 @@ app.route("/login")
             if(foundUser){
                 if(foundUser.password === req.body.password){
                     res.render("secrets");
+                }else {
+                    res.send("Incorrect password");
                 }
             }else{
                 res.send("User not found");
