@@ -1,5 +1,5 @@
 # Secrets 6 Levels of Security
-## commit c3005ecd58bbd0628415847ec5c19250602d7146 (HEAD -> main)
+## commit c3005ecd58bbd0628415847ec5c19250602d7146
 Author: Chris Candelora 
 Date:   Tue Jun 27 12:06:55 2023 -0400
 
